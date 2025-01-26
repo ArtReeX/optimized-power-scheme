@@ -1,6 +1,6 @@
 # Optimized Power Scheme for Windows OS
 
-A script that creates an additional optimized Windows power scheme named "**Optimized**" design tailored for maximum performance when using AC power and maximum energy savings when using DC.
+A script that creates an additional optimized Windows power scheme named "**Optimized**" with more than 500 hidden parameters have been changed design tailored for maximum performance when using AC power and maximum energy savings when using DC.
 
 There is a huge increase in frame time stability in games, giving preference to performance cores, as well as a reduction in stuttering in games that use Easy Anti-Cheat to constantly scan device ports.
 
