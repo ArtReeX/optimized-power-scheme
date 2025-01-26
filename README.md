@@ -8,7 +8,7 @@ There is a huge increase in frame time stability in games, giving preference to 
 
 ## Usage
 
-Run the **Optimize Power Scheme.cmd** file.
+Run the "**Optimize Power Scheme.cmd**" file.
 
 ## Testing
 
