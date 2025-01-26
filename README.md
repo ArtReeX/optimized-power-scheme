@@ -4,7 +4,7 @@ A script that creates an additional optimized Windows power scheme named "**Opti
 
 The system affects only the power scheme and nothing else. Administrator rights are not required to run. The contents of the file are open source so that you make sure the transparency of the changes made.
 
-There is a huge increase in frame time stability and low 1% fps in games, giving preference to performance cores, as well as a reduction in stuttering in games that use Easy Anti-Cheat to constantly scan device ports.
+There is a huge increase in frame time stability and low 1% fps in games, giving preference to performance cores, as well as a reduction in stuttering in games that use Easy Anti-Cheat to constantly scan hardware devices.
 
 ## Usage
 
