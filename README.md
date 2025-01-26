@@ -1,4 +1,4 @@
-# Optimized Power Scheme
+# Optimized Power Scheme for Windows OS
 
 A script that creates an additional optimized Windows power scheme named "**Optimized**" design tailored for maximum performance when using AC power and maximum energy savings when using DC.
 
