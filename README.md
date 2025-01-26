@@ -7,3 +7,7 @@ There is a huge increase in frame time stability in games, giving preference to 
 ## Usage
 
 Run the **Optimize Power Scheme.cmd** file.
+
+## Testing
+
+Tested using Lenovo Legion and Asus Rog Strix laptops in CS2, PUBG and Cyberpunk 2077 games.
